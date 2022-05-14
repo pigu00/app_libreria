@@ -1,0 +1,47 @@
+[
+  {
+    "id": "lodj",
+    "title": "Harry Potter y la piedra filosofal",
+    "author": "J. K. Rowling",
+    "genre": "Novela",
+    "year": 1997,
+    "cost": 28,
+    "price": 38
+  },
+  {
+    "id": "jh54",
+    "title": "El Principito",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "aventura",
+    "year": 1984,
+    "cost": 25.08,
+    "price": 35
+  },
+  {
+    "id": "GDrs",
+    "title": "El código Da Vinci",
+    "author": "Dan Brown",
+    "genre": "Novela",
+    "year": 2003,
+    "cost": 28,
+    "price": 45
+  },
+  {
+    "id": "2fse",
+    "title": "El diario de Ana Frank",
+    "author": "Ana Frank",
+    "genre": "novela",
+    "year": 1950,
+    "cost": 24,
+    "price": 45
+  },
+  {
+    "id": "F29r",
+    "title": "Martin Fierro",
+    "author": "Jose Hernandez",
+    "genre": "Cuento",
+    "year": 1872,
+    "cost": 15,
+    "price": 20.22
+  }
+]
